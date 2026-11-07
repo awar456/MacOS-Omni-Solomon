@@ -1,0 +1,6 @@
+{
+  "name": "OmniOS God-Mode System Controller",
+  "description": "Ultra-premium macOS automation, theming, security auditing, and disk optimization dashboard with intelligent Gemini compilation and interactive terminal simulator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
